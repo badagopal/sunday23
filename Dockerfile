@@ -1,3 +1,3 @@
 FROM nginx:alpine
 
-EXPOSE 8060
+EXPOSE 80
